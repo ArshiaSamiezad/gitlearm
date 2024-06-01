@@ -32,5 +32,7 @@ class GetEnterPressed extends Thread {
         String nextLine = scanner.nextLine();
         //aaa
         // kose babat
+        //dqdwq
+        // wdqqwd
     }
 }
