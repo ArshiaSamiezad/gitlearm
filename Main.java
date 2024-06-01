@@ -30,5 +30,6 @@ class GetEnterPressed extends Thread{
     public void run(){
         Scanner scanner = new Scanner(System.in);
         String nextLine = scanner.nextLine();
+        // kose babat
     }
 }
