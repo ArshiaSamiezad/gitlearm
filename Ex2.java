@@ -8,7 +8,7 @@ public class Ex2 {
 
     public static void main(String[] args) {
         Thread thread = new Thread(new threadTest());
+        Thread thread2 = null;
         thread.start();
-        //dwq w
     }
 }
