@@ -10,5 +10,7 @@ public class Ex2 {
         Thread thread = new Thread(new threadTest());
         Thread thread2 = null;
         thread.start();
+
+        // this is sam
     }
 }
